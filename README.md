@@ -40,5 +40,29 @@
     <td>10.</td>
     <td>Pure and impure functions.</td>
   </tr>
+   <tr>
+    <td>11.</td>
+    <td>Explain Onion Architecture</td>
+  </tr>
+   <tr>
+    <td>12.</td>
+    <td>Explain Event driven Architecture</td>
+  </tr>
+  <tr>
+    <td>13.</td>
+    <td>Explain competing consumer architecture</td>
+  </tr>
+  <tr>
+    <td>14.</td>
+    <td>Explain Hexagonal Architecture</td>
+  </tr>
+  <tr>
+    <td>15.</td>
+    <td>Explain Hexagonal Architecture</td>
+  </tr>
+  <tr>
+    <td>16.</td>
+    <td>Explain lambda function</td>
+  </tr>
 </table>
 
