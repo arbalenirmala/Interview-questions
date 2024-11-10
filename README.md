@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td>15.</td>
-    <td>Explain Hexagonal Architecture</td>
+    <td>Explain Microservices Architecture</td>
   </tr>
   <tr>
     <td>16.</td>
