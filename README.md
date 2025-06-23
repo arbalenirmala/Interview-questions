@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>1.</td>
-        <td>How to make website secure?</td>
+        <td>How to secure website ?</td>
   </tr>
   <tr>
     <td>2.</td>
