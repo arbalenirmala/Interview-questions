@@ -1,4 +1,4 @@
-# Frontend Developer Interview Questions 
+# Fullstack Developer Interview Questions 
 <table>
   <tr>
     <td>1.</td>
@@ -63,6 +63,46 @@
   <tr>
     <td>16.</td>
     <td>Explain lambda function</td>
+  </tr>
+  <tr>
+    <td>17.</td>
+    <td>How to design REST API</td>
+  </tr>
+  <tr>
+    <td>18.</td>
+    <td>Explain Auth2 Server</td>
+  </tr>
+  <tr>
+    <td>19.</td>
+    <td>What is Collection?</td>
+  </tr>
+  <tr>
+    <td>20.</td>
+    <td>Difference between HashMap, LinkedList, Array and ArrayList</td>
+  </tr>
+  <tr>
+    <td>21.</td>
+    <td>What is REST Controller?</td>
+  </tr>
+  <tr>
+    <td>21.</td>
+    <td>What is IOC?</td>
+  </tr>
+  <tr>
+    <td>22.</td>
+    <td>Types of Collection</td>
+  </tr>
+  <tr>
+    <td>23.</td>
+    <td>Explain types of Exception</td>
+  </tr>
+  <tr>
+    <td>24.</td>
+    <td>Exception Handling</td>
+  </tr>
+  <tr>
+    <td>25.</td>
+    <td>Difference between throw and throws</td>
   </tr>
 </table>
 
